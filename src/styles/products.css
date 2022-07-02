@@ -1,0 +1,17 @@
+
+.card-body{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        text-decoration: none; 
+        color: black;
+        box-shadow: none;
+}
+
+.card-body.card-title{
+
+    text-decoration: none; 
+    color: black;
+    box-shadow: none;
+}
+

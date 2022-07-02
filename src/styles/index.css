@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 10rem;
+  object-fit: cover;
+}
+
+.nav-logo{
+  height: 10rem;
+  object-fit: cover;
+  height: 70px;
+}
+
+
+.form-login{
+  width: 400px;
+  margin: 3rem auto;
+  border-radius: 26px;
+  padding: 10px;
+  text-align: center;
+  font-size: 19px;
+  background-image: linear-gradient(to bottom right, #1ab6b6, #4cac6e);
+}
+
+.titulo{
+  color: #bbe1fa;
+  margin-bottom: 20px;
+}
+
+.form-control{
+  font-family: 'Overpass', sans-serif;
+  font-size: 100%;
+  color: #1b262c;
+  width: 90%;
+  height: 40px;
+  margin-bottom: 10px;
+  padding: 5px 5px 5px 10px;
+  box-sizing: border-box;
+  border: none;
+}
+
+.btnLogin{
+  font-family: 'Overpass', sans-serif;
+  font-size: 100%;
+  color: #1b262c;
+  width: 90%;
+  height: 40px;
+  border: none;
+  border-radius: 3px 3px 3px 3px;
+  -moz-border-radius: 3px 3px 3px 3px;
+  background-color: #bbe1fa;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
